@@ -22,9 +22,3 @@ A simple HTML project built while learning with [freeCodeCamp](https://www.freec
 
 - HTML5
 - freeCodeCamp Curriculum
-
-## 🚀 Getting Started
-
-To view the project locally:
-
-1. Clone the repository  
