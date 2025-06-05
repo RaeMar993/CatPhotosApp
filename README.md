@@ -4,7 +4,7 @@ A simple HTML project built while learning with [freeCodeCamp](https://www.freec
 
 ## 🔗 Live Demo
 
-(You can host it on GitHub Pages and paste the link here)
+👉 [Click here to view the live sight(https://raemar993.github.io/CatPhotosApp/)
 
 ## 💡 Features
 
